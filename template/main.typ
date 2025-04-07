@@ -36,7 +36,7 @@
 #resume-section[技术能力]
 - *编程语言*：Golang（熟练掌握）、Python/Java（熟悉）、C/C++（了解）、前端基础（JavaScript/CSS/HTML）
 - *数据库与中间件*：MySQL、Redis、Kafka
-- *云原生技术*：Docker、Kubernetes（K8s容器编排）
+- *云原生技术*：Docker、Kubernetes
 - *架构设计*：微服务（Kitex/SpringBoot/Thrift）、高可用架构、分布式锁
 - *其他*：BPMN流程引擎、TMF扩展框架、系统稳定性建设
 
@@ -91,7 +91,7 @@
   end: "2025.04",
 )[
   - 成果：设计交易扩展框架，引入BPMN引擎，通过垂直和水平能力分离，满足不同业务市场的独立性，以及兼顾平台能力跨市场的复用性
-  - 技术：深度解析阿里TMF框架源码，结合流量观测+AOP方案实现动态扩展
+  - 技术：深度解析阿里TMF框架源码，基于AOP方案实现动态扩展，以及基于对业务进行抽象建模能力、流程、Task、扩展点等能力，实现业务的叠加和扩展
 ]
 
 #resume-project(
