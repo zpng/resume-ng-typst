@@ -34,11 +34,11 @@
 ]
 
 #resume-section[技术能力]
-- **编程语言**：Golang（熟练掌握）、Python/Java（熟悉）、C/C++（了解）、前端基础（JavaScript/CSS/HTML）
-- **数据库与中间件**：MySQL、Redis、Kafka
-- **云原生技术**：Docker、Kubernetes（K8s容器编排）
-- **架构设计**：微服务（Kitex/SpringBoot/Thrift）、高可用架构、分布式锁
-- **其他**：BPMN流程引擎、TMF扩展框架、系统稳定性建设
+- *编程语言*：Golang（熟练掌握）、Python/Java（熟悉）、C/C++（了解）、前端基础（JavaScript/CSS/HTML）
+- *数据库与中间件*：MySQL、Redis、Kafka
+- *云原生技术*：Docker、Kubernetes（K8s容器编排）
+- *架构设计*：微服务（Kitex/SpringBoot/Thrift）、高可用架构、分布式锁
+- *其他*：BPMN流程引擎、TMF扩展框架、系统稳定性建设
 
 #resume-section[工作经历]
 #resume-work(
