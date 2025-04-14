@@ -74,8 +74,8 @@
 #resume-work(
   company: "猿辅导",
   duty: "后端研发工程师",
-  start: "2017.05",
-  end: "2018.04",
+  start: "2015.09",
+  end: "2017.04",
 )[
 - 基于Spring Boot框架设计并开发高并发RESTful API服务，采用Thrift RPC协议构建微服务架构，通过Zookeeper实现分布式服务的注册发现与负载均衡。
 - 基于AngularJS开发响应式Web网站。
